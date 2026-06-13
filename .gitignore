@@ -1,0 +1,21 @@
+# Environments
+.env
+venv/
+.venv/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary folders
+ToolVerseXBot/temp_qr/
+temp_qr/
+
+# IDE files
+.vscode/
+.idea/
